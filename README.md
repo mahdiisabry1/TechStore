@@ -1,1 +1,1 @@
-# plug-n-share
+# Tech Gadget Store Web app
