@@ -13,7 +13,7 @@
 <h2>📊 Implementation Status</h2>
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-  <tr style="background: #e9ecef;">
+<!--   <tr style="background: #e9ecef;">
     <th style="padding: 12px; text-align: left; width: 30%;">✅ Completed Features</th>
     <th style="padding: 12px; text-align: left; width: 30%;">🛠 In Development</th>
     <th style="padding: 12px; text-align: left; width: 30%;">📅 Planned Features</th>
@@ -45,7 +45,8 @@
         <li>Mobile responsiveness</li>
       </ul>
     </td>
-  </tr>
+  </tr> -->
+  🛠 In Development
 </table>
 
 <h2>🛠️ Technology Stack</h2>
