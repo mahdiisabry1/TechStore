@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🛍️ TechStore - Spring Boot E-Commerce Application</h1>
-  <p><strong>🚧 Status:</strong> Actively under development | Core features implemented | Additional functionality being added</p>
+  <p><strong>🚧 Status:</strong> Actively under development | Core features | Additional functionality being added</p>
   
   <img src="https://via.placeholder.com/800x400?text=TechStore+Screenshot" alt="TechStore Screenshot" style="border-radius: 10px; margin: 20px 0;">
 </div>
