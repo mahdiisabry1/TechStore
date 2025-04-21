@@ -55,11 +55,11 @@
   <div style="flex: 1; min-width: 300px; background: #f8f9fa; padding: 15px; border-radius: 8px;">
     <h3>Backend</h3>
     <ul>
-      <li>Spring Boot 3.x</li>
+      <li>Spring Boot</li>
       <li>Spring Security</li>
       <li>Spring Data JPA</li>
       <li>Hibernate</li>
-      <li>MySQL → PostgreSQL</li>
+      <li>PostgreSQL</li>
     </ul>
   </div>
   
