@@ -6,5 +6,4 @@ public class RegistrationBody {
     private String password;
     private String fastName;
     private String lastName;
-
 }
